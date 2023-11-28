@@ -22,7 +22,7 @@ The data flow of the project is as follows:
 - **Power BI**: Finally, the data is visualized and presented in a dashboard using Power BI.
 
 !Data Flow Diagram
-<img width="415" alt="icc" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/3c5e2d6f-4e42-454e-86b0-55df5df5b343">
+<img width="700" alt="icc" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/3c5e2d6f-4e42-454e-86b0-55df5df5b343">
 
 ## Data Files
 The data files for the project are stored in the Data Lake Gen 2, and they are as follows:
