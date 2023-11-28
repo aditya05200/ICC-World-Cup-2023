@@ -20,8 +20,8 @@ The data flow of the project is as follows:
 - **Databricks**: The data is then processed and analyzed using Azure Databricks.
 - **Azure Synapse Analytics**: The data is then further analyzed using Azure Synapse Analytics.
 - **Power BI**: Finally, the data is visualized and presented in a dashboard using Power BI.
+- !Data Flow Diagram
 
-!Data Flow Diagram
 <img width="700" alt="icc" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/3c5e2d6f-4e42-454e-86b0-55df5df5b343">
 
 ## Data Files
@@ -44,7 +44,9 @@ The project aims to answer the following research questions using the data:
 - **Q5**: What were the key factors that influenced the results of the matches in the ICC World Cup 2023?
 
 ## Analysis Results
-The analysis results of the project are presented in a Power BI dashboard, which can be accessed from the following link:
+The analysis results of the project are presented in a Power BI dashboard,
+<img width="937" alt="Screenshot 2023-11-29 011129" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/d214ce5b-7344-4669-8bbe-afc19f4ef74b">
+
 
 Power BI Dashboard
 
