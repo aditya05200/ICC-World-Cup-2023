@@ -45,7 +45,7 @@ The project aims to answer the following research questions using the data:
 
 ## Analysis Results
 The analysis results of the project are presented in a Power BI dashboard,
-<img width="937" alt="Screenshot 2023-11-29 011129" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/d214ce5b-7344-4669-8bbe-afc19f4ef74b">
+<img width="830" alt="Dashboard" src="https://github.com/aditya05200/ICC-World-Cup-2023/assets/102588012/d214ce5b-7344-4669-8bbe-afc19f4ef74b">
 
 
 Power BI Dashboard
